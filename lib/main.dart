@@ -1,8 +1,9 @@
-import 'package:financial_management/models/money.dart';
-import 'package:financial_management/screens/home_screen.dart';
-import 'package:financial_management/screens/main_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:my_flutter_app/models/money.dart';
+import 'package:my_flutter_app/screens/home_screen.dart';
+import 'package:my_flutter_app/screens/main_screen.dart';
 
 void main() async{
   await Hive.initFlutter();

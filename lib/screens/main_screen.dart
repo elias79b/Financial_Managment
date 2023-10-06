@@ -1,8 +1,9 @@
 import 'package:animated_bottom_navigation_bar/animated_bottom_navigation_bar.dart';
-import 'package:financial_management/models/money.dart';
-import 'package:financial_management/screens/info_Screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:my_flutter_app/models/money.dart';
+import 'package:my_flutter_app/screens/info_Screen.dart';
 
 import 'home_screen.dart';
 

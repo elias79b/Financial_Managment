@@ -1,6 +1,7 @@
-import 'package:financial_management/utils/calculate.dart';
-import 'package:financial_management/widget/chart_widget.dart';
+
 import 'package:flutter/material.dart';
+import 'package:my_flutter_app/utils/calculate.dart';
+import 'package:my_flutter_app/widget/chart_widget.dart';
 
 class InfoScreen extends StatefulWidget {
   const InfoScreen({Key? key}) : super(key: key);

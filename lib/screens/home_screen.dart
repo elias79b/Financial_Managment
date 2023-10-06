@@ -1,10 +1,11 @@
-import 'package:financial_management/constant.dart';
-import 'package:financial_management/main.dart';
-import 'package:financial_management/models/money.dart';
-import 'package:financial_management/screens/new_transactions_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:my_flutter_app/constant.dart';
+import 'package:my_flutter_app/main.dart';
+import 'package:my_flutter_app/models/money.dart';
+import 'package:my_flutter_app/screens/new_transactions_screen.dart';
 import 'package:searchbar_animation/searchbar_animation.dart';
 
 class HomeScreen extends StatefulWidget {
